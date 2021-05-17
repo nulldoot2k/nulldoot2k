@@ -12,7 +12,7 @@
 [Website @CompanyDATV](http://churongcondatv.42web.io/)<br>
 - ✨ Join with me: [Telegram @V](https://t.me/underworldMom)<br>
 - 👯 I’m looking to collaborate on Cybersecurity [Anonops](https://webchat.anonops.com/)
-- 💬 Ask me about **Java, Python, Ruby, C/C++/C#, Js, Nodejs**
+- 💬 Ask me about **Java, Python, Ruby, C/C++/C#, Js, Nodejs, Networking, System Admin and so on ....**
 <h2>Contact me<sub> (DATV)</sub> : ==></h2><br>
 Use Irc to connect AnonOps by Port-6679 <br>
 -- FirstOne: Dowloads Tor and Irc <br> <br>
