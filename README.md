@@ -35,7 +35,7 @@ Use Irc to connect AnonOps by Port-6679 <br>
 </p>
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](http://churongcondatv.42web.io/About/CV.html)
 - :email: companydatv412@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
