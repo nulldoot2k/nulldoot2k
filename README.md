@@ -29,8 +29,8 @@ Use Irc to connect AnonOps by Port-6679 <br>
 <a href="https://codesandbox.com/v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="v" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vumanhdat412/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/vumanhdat412/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kanz_vdat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/kanz_vdat/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucybs7r2xzwiefvuz33g7ymg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucybs7r2xzwiefvuz33g7ymg" height="30" width="40" /></a>
-<a href="https://discord.gg/drag sanders#4519" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="drag sanders#4519" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCYBs7r2XzwiEfvuZ33g7ymg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCYBs7r2XzwiEfvuZ33g7ymg" height="30" width="40" /></a>
+<a href="https://discord.com/users/848850713311707157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="drag sanders#4519" height="30" width="40" /></a>
 <a href="/http://churongcondatv.42web.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://churongcondatv.42web.io/" height="30" width="40" /></a>
 </p>
 
