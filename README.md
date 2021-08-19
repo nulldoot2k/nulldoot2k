@@ -1,4 +1,4 @@
-![tech](https://user-images.githubusercontent.com/83489434/130040289-dd3d82e3-2724-414b-91ee-fe10a299c7c6.png)
+![DATV](https://user-images.githubusercontent.com/83489434/130043987-ed8773bf-2e1e-4a9f-a355-7c9c08a9ac60.png)
 <h1 align="center"&text_color=DC143C>Welcome To DATV</h1>
 <h3 align="center">A Passionate Programming And Developer From Việt Nam</h3>
 
