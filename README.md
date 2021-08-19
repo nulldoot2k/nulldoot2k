@@ -44,28 +44,3 @@ Use Irc to connect AnonOps by Port-6679 <br>
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/VuManhDat412/)
 [![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=Home%20Assistant%20Community%20Store&logoColor=white "Homepage")](http://churongcondatv.42web.io/?i=1)
 
-## Operating systems 💻
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white "Arch Linux")](https://www.kali.org/features/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)
-
-## Softwares 🛠
-[![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white "Rider")](https://www.jetbrains.com/rider/)
-[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white "WebStorm")](https://www.jetbrains.com/webstorm/)
-[![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=NeoVim&logoColor=white "NeoVim")](https://neovim.io/)
-[![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white "Sublime Text")](https://www.sublimetext.com/)
-[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox%20browser&logoColor=white "Mozilla Firefox")](https://www.mozilla.org/firefox)
-
-## Skills 🚀
-
-|Code|Times|Speed Up|%%%%|
-|:-----|:-----|:-----:|------:|
-|Hacking   |15 hrs 41 mins  |████████████████████▓░░░░   |82.29 %| 
-|Frontend         |1 hr 50 mins    |██▒░░░░░░░░░░░░░░░░░░░░░░   |09.61 %| 
-|TypeScript     |1 hr 27 mins    |██░░░░░░░░░░░░░░░░░░░░░░░   |07.63 %| 
-|Other        |2 mins          |░░░░░░░░░░░░░░░░░░░░░░░░░   |00.25 %| 
-|YAML         |2 mins          |███████░░░░░░░░░░░░░░░░░░░   |00.19 %| 
-
-<h3 align="left">Support:</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vudat412&" alt="vudat412" /></p>
