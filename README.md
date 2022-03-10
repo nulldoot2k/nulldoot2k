@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Instagram @kanz_vdat](https://www.instagram.com/kanz_vdat/) || [Facebook @VuManhDat412](https://www.facebook.com/VuManhDat412/) ||
 [Website @CompanyDATV](http://churongcondatv.42web.io/)<br>
 - ✨ Join with me: [Telegram @V](https://t.me/HamiiV)<br>
-- 👯 I’m looking to collaborate on Cybersecurity [Anonops](https://webchat.anonops.com/)
+- 👯 I’m looking to collaborate on Cybersecurity [Anonops](https://webchat.anonops.com/) and Course CEH [12 Hour Course Video OSCP](https://hiperdatv.cf/)
 - 💬 Ask me about **Java, Python, Ruby, C/C++/C#, Js, Nodejs, Networking, System Admin and so on ....**
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=vudat412&&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="vudat412" />
 
