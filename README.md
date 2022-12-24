@@ -1,10 +1,10 @@
 ![nulldoot_edit](https://user-images.githubusercontent.com/83489434/188294686-802ab107-cb46-4e6a-ba13-557d64062946.png)
-<h1 align="center"&text_color=DC143C>Welcome To DATV</h1>
+<h1 align="center"&text_color=DC143C>Welcome To NullDoot2k</h1>
 <h3 align="center">A passionate freelance developer and programmer from Vietnam</h3>
 
-- 👋 Hi, I’m DATV - NullDoot<br>
+- 👋 Hi, I’m DATV - NullDoot2k<br>
 - 👀 I’m From Internet<br>
-- 🌱 About me **https://datv.nulldoot2k.xyz/about** <br>
+- 🌱 About me **https://vyhamii.dev/about** <br>
 - 🔭 Follow me ***[NullDoot](http://nulldoot2k.koji.site)***
 - ✨ Join channel with me: ***[IRC @nulldoot](https://web.libera.chat/#nulldoot)***<br>
 - 💬 Ask me about **Java, Python, Ruby, C/C++/C#, Js, Nodejs, Networking, System Admin and so on ....**
