@@ -4,6 +4,6 @@
 
 - 👋 Hi, I’m DATV - NullDoot2k<br>
 - 👀 I’m From Internet<br>
-- 🌱 About me **https://kitto2k.dev/about** <br>
+- 🌱 About me **[https://kitto2k.netify.app/about](https://kitto2k.netlify.app/about)** <br>
 - ✨ Join channel with me: ***[IRC @nulldoot]([https://web.libera.chat/#nulldoot](https://webchat.anonops.com/#opnewblood))***<br>
 - 💬 Ask me about **Java, Python, Ruby, C/C++/C#, Js, Nodejs, Networking, System Admin and so on ....**
