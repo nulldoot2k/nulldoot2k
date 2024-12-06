@@ -5,4 +5,4 @@
 - 👀 I’m From VietNam<br>
 - 🌱 About me **[https://datvu2k.netify.app/about](https://datvu2k.netlify.app/about)** <br>
 - ✨ Join channel with me: ***[IRC @nulldoot](https://web.libera.chat/?#nulldoot)***<br>
-- 💬 Ask me about **sys net ops dev engineer**
+- 💬 Ask me about **sys net dev ops and so on...**
